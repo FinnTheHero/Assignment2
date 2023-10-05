@@ -51,13 +51,17 @@ Screenshots for assignment N2
 ![OS](./img/enviroment/winver.png)
 ### Compilers
 
-1. C
-    ![C](./img/enviroment/gppver.png)
-2. Java
-    ![Java](./img/enviroment/javaver.png)
-    ![Java](./img/enviroment/javacver.png)
-3. Python
-    ![Python](./img/enviroment/pyver.png)
-4. Scala
-    ![Scala](./img/enviroment/scalaver.png)
-    ![Scala](./img/enviroment/scalacver.png)
+#### C
+![C](./img/enviroment/gppver.png)
+#### Java
+![Java](./img/enviroment/javaver.png)
+![Java](./img/enviroment/javacver.png)
+#### Python
+![Python](./img/enviroment/pyver.png)
+#### Scala
+![Scala](./img/enviroment/scalaver.png)
+![Scala](./img/enviroment/scalacver.png)
+
+
+# Note
+I was unable to use WSL2 or linux for this assignment due to certain resons, but will use it in future as it is my preferred enviroment as well.
